@@ -1,0 +1,24 @@
+{
+  "name": "pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "src/config/conf.js",
+    "update": "webdriver-manager update",
+    "start": "webdriver-manager start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilya-Kuzmich/pr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilya-Kuzmich/pr/issues"
+  },
+  "homepage": "https://github.com/Ilya-Kuzmich/pr#readme",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  }
+}
